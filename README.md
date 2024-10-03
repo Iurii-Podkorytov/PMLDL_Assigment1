@@ -1,5 +1,5 @@
 # PMLDL_Assigment1
 
-A simple web app to serve a toy model to recognize hand-written dgits with sklearn
+A simple web app to serve a model to recognize hand-written digits from sklearn toy dataset.
 
-To run `docker compose up -d --build`
+To run `docker compose up -d --build`.
