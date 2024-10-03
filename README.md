@@ -1,7 +1,5 @@
 # PMLDL_Assigment1
 
-docker run -p 8080:8080 backend
+A simple web app to serve a toy model to recognize hand-written dgits with sklearn
 
-http://localhost:8080/docs
-
-docker run -p 8501:8501 frontend
+To run `docker compose up -d --build`

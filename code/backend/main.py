@@ -7,7 +7,7 @@ import uvicorn
 
 app = FastAPI(title="Digit Recognition API")
 
-model = joblib.load('model.joblib') 
+model = joblib.load('models/model.joblib') 
 
 @app.get("/")
 def root():
